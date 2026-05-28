@@ -26,12 +26,12 @@
   width: 150px;
 }
 
-.amazon-logo {
+.storefront-image-logo {
   width: 100px;
   margin-top: 12px;
 }
 
-.amazon-mobile-logo {
+.storefront-image-mobile-logo {
   display: none;
 }
 
@@ -62,7 +62,7 @@ styles (inside the {...}) will be applied. */
     width: auto;
   }
   
-  .amazon-logo {
+  .storefront-image-logo {
     display: none;
   }
 
@@ -70,7 +70,7 @@ styles (inside the {...}) will be applied. */
     display: none;
   }
   
-  .amazon-mobile-logo {
+  .storefront-image-mobile-logo {
     display: inline-block;
     height: 35px;
     margin-top: 5px;
